@@ -10,3 +10,5 @@ yang dibutuhkan
 - Text Editor 
 
 NB : Pastikan versi Google Chrome dan WebDriver sama
+
+![Screenshot (210)](https://user-images.githubusercontent.com/49423419/144006812-1913a833-b710-47c2-88f1-6983a57a829e.png)
