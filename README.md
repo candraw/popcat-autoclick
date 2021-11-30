@@ -9,3 +9,4 @@ yang dibutuhkan
 - Chrome web driver 
 - Text Editor 
 
+NB : Pastikan versi Google Chrome dan WebDriver sama
