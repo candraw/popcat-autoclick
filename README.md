@@ -1,11 +1,11 @@
 # popthe-popcat
-Otomasi click di situs popcat.click menggunakan Python Selenium
-Ayo support Indonesia jadi nomor 1 di popcat.click 
+Aplikasi Otomasi Klik situs popcat.click.
+Jalankan dan biarkan aplikasi ini bekerja
 
-yang dibutuhkan 
+Beberapa yang diperlukan untuk menjalankan aplikasi diantaranya : 
 - Google chrome
 - Pyhton Installed
-- Selenoid library 
+- Selenium library 
 - Chrome web driver 
 - Text Editor 
 
