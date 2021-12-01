@@ -1,8 +1,8 @@
 # popthe-popcat
-Aplikasi Otomasi Klik situs popcat.click.
-Jalankan dan biarkan aplikasi ini bekerja
+Aplikasi Otomasi Klik di situs **popcat.click**.
+Jalankan dan biarkan aplikasi ini bekerja.
 
-Beberapa yang diperlukan untuk menjalankan aplikasi diantaranya : 
+Beberapa hal yang diperlukan untuk menjalankan aplikasi ini diantaranya : 
 - Google chrome
 - Pyhton Installed
 - Selenium library 
