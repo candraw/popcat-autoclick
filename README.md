@@ -1,6 +1,7 @@
 # popthe-popcat
 Aplikasi Otomasi Klik di situs **popcat.click**.
-Jalankan dan biarkan aplikasi ini bekerja.
+aplikasi ini akan secara otomatis melakukan click pada kucing viral itu, sehingga anda tidak perlu capek2 lagi untuk menekan2 nya.
+Cukup jalankan dan biarkan aplikasi ini bekerja.
 
 Beberapa hal yang diperlukan untuk menjalankan aplikasi ini diantaranya : 
 - Google chrome
