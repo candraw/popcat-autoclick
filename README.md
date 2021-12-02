@@ -1,7 +1,9 @@
 # popthe-popcat
 Aplikasi Otomasi Klik di situs **popcat.click**.
-aplikasi ini akan secara otomatis melakukan click pada kucing viral itu, sehingga anda tidak perlu capek2 lagi untuk menekan2 nya.
+aplikasi ini akan melakukan click secara otomatis secara berulang-ulang, sehingga anda tidak perlu capek2 lagi untuk menekan-nekan kucingnya.
 Cukup jalankan dan biarkan aplikasi ini bekerja.
+
+dibuat dengan python dan selenium.
 
 Beberapa hal yang diperlukan untuk menjalankan aplikasi ini diantaranya : 
 - Google chrome
