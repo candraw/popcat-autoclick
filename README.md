@@ -5,6 +5,10 @@ Cukup jalankan dan biarkan aplikasi ini bekerja.
 
 dibuat dengan python dan selenium.
 
+feature : 
+- Auto click the popcat
+- That's it
+
 Beberapa hal yang diperlukan untuk menjalankan aplikasi ini diantaranya : 
 - Google chrome
 - Pyhton Installed
