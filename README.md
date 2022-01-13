@@ -1,4 +1,4 @@
-# popthe-popcat
+# popcat-autoclick
 Aplikasi Otomasi Klik di situs **popcat.click**.
 aplikasi ini akan melakukan click secara otomatis secara berulang-ulang, sehingga anda tidak perlu capek2 lagi untuk menekan-nekan kucingnya.
 Cukup jalankan dan biarkan aplikasi ini bekerja.
