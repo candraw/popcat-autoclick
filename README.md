@@ -1,21 +1,20 @@
 # popcat-autoclick
-Aplikasi Otomasi Klik di situs **popcat.click**.
-aplikasi ini akan melakukan click secara otomatis secara berulang-ulang, sehingga anda tidak perlu capek2 lagi untuk menekan-nekan kucingnya.
-Cukup jalankan dan biarkan aplikasi ini bekerja.
+Automation click program for **popcat.click** site.
+This program will click automatically repeatedly, so you don't need to be tired anymore to press the cat.
+Just run it and let this app work.
 
-dibuat dengan python dan selenium.
+made with python and selenium.
 
-feature : 
+features :
 - Auto click the popcat
 - That's it
 
-Beberapa hal yang diperlukan untuk menjalankan aplikasi ini diantaranya : 
+Some of the things needed to run this application include:
 - Google chrome
-- Pyhton Installed
-- Selenium library 
-- Chrome web driver 
-- Text Editor 
+- Python Installed
+- Selenium library
+- Chrome web driver
+- Text Editor
 
-NB : Pastikan versi Google Chrome dan WebDriver sama
-
+NB: Make sure the versions of Google Chrome and WebDriver are the same
 ![Screenshot (210)](https://user-images.githubusercontent.com/49423419/144006812-1913a833-b710-47c2-88f1-6983a57a829e.png)
