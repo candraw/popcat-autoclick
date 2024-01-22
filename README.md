@@ -1,4 +1,5 @@
 # popcat-autoclick
+# Just For Fun
 Automation click program for **popcat.click** site.
 This program will click the cat automatically, so you don't need to be tired anymore to press the cat.
 Just run it and let this program work.
